@@ -7,3 +7,4 @@ Data collected from Kaggle and Brawl Stars API<br>
 3. Visualized the Data to discover patterns and trends<br>
 4. 35 interesting questions were asked and amusing inferences were made<br><br>
 
+![brawlstars](https://raw.githubusercontent.com/sanjay-906/Brawl-Stars-Data-Analysis/main/brawlstars.png)
